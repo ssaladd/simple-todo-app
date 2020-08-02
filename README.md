@@ -1,7 +1,7 @@
 # simple-todo-app
 the source code for a simple todo app made with reactjs and django + postgreSQL / sqlite
 - reactjs frontend is in /frontend
-- django backend is in /todo_drf 
+- django backend is in /api
 - (alternatively you can check out the app at https://simple-todo-app-django-react.herokuapp.com/)
 
 # how to run the app locally
